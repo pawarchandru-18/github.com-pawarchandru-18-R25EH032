@@ -1,1 +1,1 @@
-# github.com-pawarchandru-18-R25EH032
+# github.com-pawarchandru-18-R25EH032Hi, I’m Chandrashekhar, a 3rd-semester Artificial Intelligence and Data Science student interested in programming, artificial intelligence, data science, and software development. I am developing my technical skills in Python, C, Git, GitHub, and other technologies through academic projects and practical programming exercises. I am continuously learning and working on projects to improve my problem-solving and software development skills.
